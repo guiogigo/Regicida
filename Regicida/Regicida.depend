@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695325016 source:d:\programação\ccodes\regicida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
